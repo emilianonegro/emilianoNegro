@@ -132,8 +132,14 @@
     }
 
     .imgUsuario{
+        background-image: url('https://media-exp1.licdn.com/dms/image/C4D03AQEYIJ1sdMdUOA/profile-displayphoto-shrink_400_400/0/1647436803404?e=1652918400&v=beta&t=1SDwHHM6NUmagMZcq0jLNh0dt4RJdCRd7f2kge-0KaU');
         width: 300px;
         height: 300px;
+    }   
+
+
+    .imgUsuario:hover{
+        transition:  0;
     }
 
     /*Know Me*/
